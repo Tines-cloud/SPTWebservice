@@ -1,0 +1,6 @@
+@SPTWebservice_HostAddress = http://localhost:5154
+
+GET {{SPTWebservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

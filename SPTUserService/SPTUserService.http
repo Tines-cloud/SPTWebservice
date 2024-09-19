@@ -1,0 +1,6 @@
+@SPTUserService_HostAddress = http://localhost:5172
+
+GET {{SPTUserService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
